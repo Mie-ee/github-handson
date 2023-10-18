@@ -183,5 +183,13 @@ JSON では通常の JavaScript オブジェクトと同様な基本データ型
  ]
 }
 ```
-[サイト](https://di-pri.github.io/Hacked-Hogwarts-Student-List) を参照しました。
+ *[サイト](https://di-pri.github.io/Hacked-Hogwarts-Student-List) を参照しました。* 
+
+ # 参考資料
+ 参考になる資料を載せておきます。
+ 
+- MDN:　https://developer.mozilla.org/ja/docs/Web
+- わわわ:　https://wa3.i-3-i.info/
+- 書籍：Web技術の基本[Amazon](https://amzn.asia/d/6F2nbIO)
+
 
